@@ -748,7 +748,7 @@ CocoInsight lets you **visualize and debug your flow**, see the lineage of your
 
 Start the server:
 
-```bash
+```sh
 cocoindex server -ci main
 ```
 
